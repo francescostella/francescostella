@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 🌱 &nbsp; I’m currently learning anything Javascript related.  
 💬 &nbsp; Ask me about: Chapter 2 season 2  
-📫 &nbsp; How to reach me: visit my personale website Contact's section on https://francesco.work  
+<!-- 📫 &nbsp; How to reach me: visit my personale website Contact's section on https://francesco.work  -->
 😄 &nbsp; Pronouns: he/him  
 
