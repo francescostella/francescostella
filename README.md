@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Francesco!
 
 <!--
 **francescostella/francescostella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning anything to extend my Javascript skills.
+- 💬 Ask me about: Chapter 2 season 2
+- 📫 How to reach me: visit my personale website Contact's section on https://francesco.work
+- 😄 Pronouns: he/him
+
