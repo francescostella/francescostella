@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 &nbsp; I’m currently learning anything Javascript related.  
+🌱 &nbsp; I’m always on the lookout for improving my Javascript skills.  
 💬 &nbsp; Ask me about: Chapter 2 season 2  
 😄 &nbsp; Pronouns: he/him  
 <!-- 📫 &nbsp; How to reach me: visit my personale website Contact's section on https://francesco.work  -->
