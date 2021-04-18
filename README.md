@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 &nbsp; I’m always on the lookout for improving my Javascript skills. 
-👯 &nbsp; I’m looking to collaborate on any projects. Contact me. 
+🌱 &nbsp; I’m always on the lookout for improving my Javascript skills.  
+👯 &nbsp; I’m looking to collaborate on any projects. Contact me.  
 💬 &nbsp; Ask me about: Chapter 2 season 2  
 😄 &nbsp; Pronouns: he/him  
-📫 &nbsp; How to reach me: visit my personal website at [https://francesco.work/contact](https://francesco.work/contact)
+📫 &nbsp; How to reach me: visit my personal website at [https://francesco.work/contact](https://francesco.work/contact)  
 
