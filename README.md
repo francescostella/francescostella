@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 💬 &nbsp; Ask me about: Chapter 2 season 2  
 😄 &nbsp; Pronouns: he/him  
 📫 &nbsp; How to reach me: visit my personal website at [https://francesco.work/contact](https://francesco.work/contact)  
+🛠 &nbsp; Things I've been working with: Javascript, SCSS, Angular & AngularJS, React, Next.js, Strapi, Heroku, Vercel, Express, Node.js, MongoDB, Typescript, RxJS, State Machine, Webpack, Gulp, Handlebars, AMP, Contentful API, Docker, Adobe Experience Manager, Drupal, Postman, SCSS, BEM, Optimizely, Hotjar, New Relic, Isomorphic JS (Brisket.js), Backbone.js, GreenSock JS, Skrollr, Parallax.js, jQuery, Speech Synthesis API, Foundation Zurb, RoxPHP, Composer PHP, ActionScript, Git/Github, Ruby Rake, Ruby Sprite Factory, Ruby Watchr, Ruby Middleman, Litmus, Charles (Web Debugging proxy), VMWare running Visual Studio for .NET projects, Sketch, Adobe After Effect, Adobe Flash, Action Script.
 
