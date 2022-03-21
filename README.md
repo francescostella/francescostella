@@ -8,9 +8,9 @@ I'm a Software Engineer. Born in USA and raised in Italy, as I grew my career I 
 - ⚡ Fun fact: ...
 -->
 🔭 &nbsp; I have a formal training in 3D modelling, 3D Character Rigging/Animation, Visual Effects, Compositing, and more.  
+🕹 &nbsp; Love Fortnite (playing on PS). Other favorites: Uncharted 4, GoW, Assassin Creed, It Takes Two, Watch Dogs 2.  
 🌱 &nbsp; I’m always on the lookout for improving my programming skills.  
 👯 &nbsp; I’m looking to collaborate on any projects. Contact me.  
-🕹 &nbsp; Love Fortnite (playing on PS). Other favorites: Uncharted 4, GoW, Assassin Creed, It Takes Two, Watch Dogs 2.  
 😄 &nbsp; Pronouns: he/him  
 
 ### 🛠 Things I've been working with
