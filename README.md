@@ -1,23 +1,16 @@
 ### Hi there! 👋 I'm Francesco!
+I'm a Software Engineer. Born in USA and raised in Italy, as I grew my career I moved in New York City and later in California, working between San Francisco and Los Angeles.
 
 <!--
-**francescostella/francescostella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-🌱 &nbsp; I’m always on the lookout for improving my Javascript skills.  
+🔭 &nbsp; I have a training in Computer Graphics, 3D modelling, 3D Character Rigging and Animation, Visual Effects, Compositing, Editing, and more
+🌱 &nbsp; I’m always on the lookout for improving my programming skills.  
 👯 &nbsp; I’m looking to collaborate on any projects. Contact me.  
-💬 &nbsp; Chapter 2 season 2  
+🕹 &nbsp; Love Fortnite. Playstation. I'm also a huge fan of Uncharted 4, God of War, Assassin Creed (Valhalla, Odissey, Origins), It Takes Two, Avengers, Watch Dogs 2, Spiderman.
 😄 &nbsp; Pronouns: he/him  
 
 ### 🛠 Things I've been working with
