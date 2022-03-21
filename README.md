@@ -7,7 +7,7 @@ I'm a Software Engineer. Born in USA and raised in Italy, as I grew my career I 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-🔭 &nbsp; I have a training in Computer Graphics, 3D modelling, 3D Character Rigging and Animation, Visual Effects, Compositing, Editing, and more.  
+🔭 &nbsp; I have a formal training in 3D modelling, 3D Character Rigging/Animation, Visual Effexts, Compositing, and more.  
 🌱 &nbsp; I’m always on the lookout for improving my programming skills.  
 👯 &nbsp; I’m looking to collaborate on any projects. Contact me.  
 🕹 &nbsp; Love Fortnite. Playstation. I'm also a huge fan of Uncharted 4, God of War, Assassin Creed (Valhalla, Odissey, Origins), It Takes Two, Avengers, Watch Dogs 2, Spiderman.  
