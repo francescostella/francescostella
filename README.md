@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Francesco!
-I'm a Software Engineer. Born in USA and raised in Italy, as I grew my career I moved in New York City and later in California, working between San Francisco and Los Angeles.
+I'm a Software Engineer. Working between New York City, San Francisco, and Los Angeles.
 
 <!--
 - 🤔 I’m looking for help with ...
