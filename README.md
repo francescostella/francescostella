@@ -22,5 +22,5 @@ State Machine, Gulp, Handlebars, AMP, Contentful API, Adobe Experience Manager, 
 <!-- Javascript, SCSS, Angular & AngularJS, React, Next.js, Strapi, Heroku, Vercel, Express, Node.js, Graph QL, MongoDB, MySQL, Typescript, RxJS, State Machine, Webpack, Gulp, Handlebars, AMP, Contentful API, Docker, Adobe Experience Manager, Drupal, Postman, BEM, Optimizely, Hotjar, New Relic, Isomorphic JS (Brisket.js), Backbone.js, GreenSock JS, Skrollr, Parallax.js, jQuery, Speech Synthesis API, Foundation Zurb, RoxPHP, Composer PHP, ActionScript, Git/Github, Ruby Rake, Ruby Sprite Factory, Ruby Watchr, Ruby Middleman, Litmus, Charles (Web Debugging proxy), VMWare running Visual Studio for .NET projects, Sketch, Adobe Flash. -->
 
 ### 📫 How to reach me
-Visit my personal website at [https://francesco.work/contact](https://francesco.work/contact)  
+Visit my personal website at [https://francesco.work/about](https://francesco.work/about)  
 
